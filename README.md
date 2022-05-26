@@ -1,1 +1,0 @@
-Detta är ett projekt i DV1609 Webbapplikationer för mobila enheter
